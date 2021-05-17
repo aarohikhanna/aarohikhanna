@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarohikhanna
 - 👀 I’m interested in blockchain, data science, web development. 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on any project related to the same.
 - 📫 How to reach me :akaarohi1@gmail.com
 
