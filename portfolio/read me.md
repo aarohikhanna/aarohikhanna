@@ -7,9 +7,17 @@
 | -------   | ------- |
 | **Process**   | *Audit, Mapping, BPMN* |
 | **Product**   | *Product Features, Roadmap, Management* |
-| **Business Analyst** | *User stories, Wireframing, PMO* |
+| **Business Analyst** | *User stories, Wireframing, PMO, XML* |
 | **Data Science** | *In-progress* | 
+| **Stratergy** | *Analytics based Stratergies* |
 
 ----
 
+Task list
+
+- [ ] Add Process Maps samples
+- [ ] Add BPMN samples
+- [ ] Add XML samples
+- [ ] Add Wireframe samples
+- [ ] 
 
