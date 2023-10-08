@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarohikhanna
-- 👀 I’m interested in blockchain, data science, web development. 
+- 👀 I’m interested in data science, web development & new technologies.
 - 🌱 I’m currently React
 - 💞️ I’m looking to collaborate on any project related to the same.
 - 📫 How to reach me : contactaarohikhanna@gmail.com
